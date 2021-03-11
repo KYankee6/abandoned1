@@ -1,8 +1,10 @@
 ---
-'''
-TIL: Today I Learned
-'''
+title: "Hello world!"
+date : date
+categories : free
 ---
-2021-03-11
+### 2021-03-11
 
-Kaggle Intro to Machine Learning
+---
+
+블로그 시작!
